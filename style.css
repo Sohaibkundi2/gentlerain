@@ -231,6 +231,7 @@ body {
     background-color: rgb(241, 241, 241);
     position: relative;
     z-index: 3;
+    border: 1px solid #000;
 }
 
 .section-2-top-nav h3 {
